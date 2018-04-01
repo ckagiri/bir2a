@@ -1,0 +1,26 @@
+{
+  "name": "bir2a",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-breadcrumbs-dynamic": "1.0.14",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.7",
+    "react-router-breadcrumbs-hoc": "2.0.1",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.1.0",
+    "react-through": "1.0.3",
+    "redux": "3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

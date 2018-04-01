@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: blue;
+}
+
+#root > div {
+  display: flex;
+}
+
+.app {
+  width: 50%;
+}
+
+.breadcrumbs {
+  margin-bottom: 20px;
+}
